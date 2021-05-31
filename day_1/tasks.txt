@@ -1,0 +1,11 @@
+1. Explore what we learnt today
+2. Write a program to do the following tasks:
+    a. Take a user's information as input. 
+        - Name
+        - Age
+        - Occupassion
+        - Address
+        - Income
+        - Mobile number
+    b. Show the types of each information
+    c. Show the user a greeting message. 
