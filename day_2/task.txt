@@ -1,0 +1,5 @@
+Write a program to do the followings:
+1. Take two floating numbers as input
+2. Perform type casting
+3. Perform all arithmatic operations
+5. Print all results
