@@ -1,0 +1,3 @@
+1. Print first 15 elements of fibonacci numbers
+2. Print first 20 even numbers
+3. Print first 30 odd numbers 
