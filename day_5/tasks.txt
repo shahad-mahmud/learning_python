@@ -1,0 +1,11 @@
+1. Write a program to-
+    i. Take several inputs as age of people
+    ii. Reserve the inputs in a list
+    iii. Check the typr of the list
+    iv. Print the list
+    v. Add one more age at the end of the list
+    vi. Add one more age at the begining of the list
+    vii. Delete the age of the 5th person
+    viii. Chnage the age of 7th person
+    ix. Sort the list in desending order
+    x. Check if the input is valid
