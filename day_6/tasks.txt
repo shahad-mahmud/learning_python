@@ -1,3 +1,3 @@
-1. Create a list and store number form 1 to 1000
+1. Create a list and store number from 1 to 1000
 2. Multiply each number of the list with 3 and print the sum
 3. Print the numbers that are divided by 5.
