@@ -1,0 +1,17 @@
+1. Make a simple calculator with following features:
+    - It can take two numbers as input
+    - It will show an option to the user for operations
+    - Supported operations are:
+        * Addition
+        * Subtraction
+        * Multiplication
+        * Dividation
+        * Exponant
+    - Check if the operation type valid
+    - Finally, print the desired result
+
+2. Study and practice nested for loop
+
+3. Print a square of star ('*')
+
+4. Print a pyramid using nested loop
