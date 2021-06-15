@@ -1,0 +1,8 @@
+1. Write a program to print a real pyramid
+2. Write a function that will return the odd positioned charecters
+3. Write a function that will return the length of a string (do not use len() function)
+4. Write a function that will concatenate two strings alternatively.
+    Example: str1 = 'abc'
+             str2 = '123'
+             
+             output = 'a1b2c3'
