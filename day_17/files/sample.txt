@@ -1,0 +1,4 @@
+This is a sample file
+We are learning about files today
+We have 5 people in our group
+My name is Rahim

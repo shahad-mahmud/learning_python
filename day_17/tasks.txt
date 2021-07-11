@@ -1,0 +1,4 @@
+# 1. Create a file manually
+# 2. Enter at least 10 names in the file in seperate lines
+# 3. Take a name as input -> input
+# 4. Check if the name exits in the file -> searching, file
