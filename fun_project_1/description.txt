@@ -1,0 +1,10 @@
+# -----------Menu------------
+Options:
+    1. Register
+
+# ----------Explanations------------
+1. Register:
+    Take a name as input for user name. 
+        - Check if this user name already exists.
+        - If the name already exists then tell the user to give another input
+        - If the name does not exists, write the name in the `user_details.txt` file
